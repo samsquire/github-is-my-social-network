@@ -7,7 +7,7 @@ I use GitHub as my social network and I want you to join me and create content. 
  * I am always looking for high quality things to read.
  * You might like [gemini](https://gemini.circumlunar.space/docs/faq.html) and [nostr](https://nostr.com/)
  
- What can you do on my social network? Here's a beautiful markdown table. I'm trying to make the codename a "thing", so you can create a repository with the same name or with your own name if you really have to. This is a bit like the semantic web or [.well-known]([twelkl](https://en.wikipedia.org/wiki/Well-known_URI)
+ What can you do on my social network? Here's a beautiful markdown table. I'm trying to make the codename a "thing", so you can create a repository with the same name or with your own name if you really have to. This is a bit like the semantic web, microformats or [.well-known](https://en.wikipedia.org/wiki/Well-known_URI)
 
 |codename|mine|Description|
 |---|---|--|
