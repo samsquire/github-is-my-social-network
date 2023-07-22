@@ -1,7 +1,7 @@
-# Welcome to the profile page of samsquire
 # GitHub is my social network
+# Welcome to the profile page of samsquire
 
-I use `git` and GitHub as my social network and I want you to join me and create content. This is like a low tech webring. I just use Markdown and HTML links.
+I use GitHub as my social network and I want you to join me and create content. This is like a low tech webring. I just use Markdown and HTML links.
 
  * I am a software engineer interested in the web and the future of technology and what I feel is good futuristic technlogy.
  * I am always looking for high quality things to read.
