@@ -15,3 +15,4 @@ I use GitHub as my social network and I want you to join me and create content. 
 | wants | [samsquire/wants](https://github.com/samsquire/wants) | Things I want |
 | blog | [samsquire/blog](https://github.com/samsquire/blog) | My technical blog |
 | dotfiles | (pending) | I don't have a dotfiles repository yet |
+| charity | [samsquire/charity](https://github.com/samsquire/charity) | If you need help or are struggling, you can reach out to me |
