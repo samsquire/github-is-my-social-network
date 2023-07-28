@@ -18,3 +18,4 @@ I use GitHub as my social network and I want you to join me and create content. 
 | collaborate | [samsquire/collaboration](https://github.com/samsquire/collaboration) | Things I want to collaborate on. |
 | commissioning | [samsquire/commissioning](https://github.com/samsquire/commissioning) | Things you can do that I would commission. |
 | dotfiles | (pending) | I don't have a dotfiles repository yet |
+| work | [samsquire/work](https://github.com/samsquire/work) | This is work that I think other people should do. |
